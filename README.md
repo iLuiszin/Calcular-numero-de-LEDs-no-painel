@@ -1,0 +1,1 @@
+# Calcular-numero-de-LEDs-no-painel
